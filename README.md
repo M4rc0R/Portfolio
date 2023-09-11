@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alt="License" src="./assets/captura_tela.png">
+  <img alt="License" src="./assets/captura_tela.PNG">
 </p>
 
 ## 🚀 Tecnologias
